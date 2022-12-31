@@ -9,11 +9,11 @@ thumbnail: /fluttermodena.png
 
 Ecco qua il blog di Flutter Modena!
 
-In questo primo post presenterò il blog e come abbiamo intenzione di organizzarci per fare in modo tale che possa allo stesso tempo permettere a tutti quelli che vogliono di sentirsi parte integrante di esso.
+In questo primo post presenterò il blog e come abbiamo intenzione di organizzarci per fare in modo tale che possa allo stesso tempo permettere a tutti di sentirsi parte integrante di esso e di realizzare contenuti che il mondo sia interessato a leggere.
 
 # L'idea
 
-La quantità e qualità di risorse su Flutter in italiano presenti online è molto scarsa, e noi siamo una community di persone interessate a Flutter e tanti hanno voglia di contribuire in qualche modo alla community. Sembra anche fin troppo ovvio che far partire un blog in cui i membri della nostra community possano condividere qualcosa con il mondo sia un'ottima idea!
+La quantità e qualità di risorse su Flutter in italiano presenti online è molto scarsa, e noi siamo una community di persone interessate a Flutter, e nel primo meetup è emersa tanta voglia di contribuire in qualche modo alla community. Viste queste premesse, sembra anche fin troppo ovvio che far partire un blog in cui i membri della nostra community possano condividere qualcosa con il mondo sia un'ottima idea!
 
 Ognuno dei membri della community sarà, quindi, in grado di contribuire al blog in due modi:
 
@@ -24,17 +24,17 @@ Ognuno dei membri della community sarà, quindi, in grado di contribuire al blog
 
 Questo non è il blog personale di uno di noi, quindi è necessario che ci sia qualche forma di coordinazione tra i membri, e che ci sia qualche processo mediante il quale si assicura che i post che finiscono sul blog sono di qualità sufficiente che chiunque legga i post del blog possa fidarsi che i contenuti sono corretti e scritti abbastanza bene.
 
-Questo processo è il primo che tenteremo di usare, poi valuteremo se renderlo più o meno formale in base ad eventuali difficoltà che incontreremo in futuro.
+Il proesso qui descritto è il primo che tenteremo di usare, poi valuteremo se renderlo più o meno formale in base ad eventuali difficoltà che incontreremo in futuro.
 
-Di conseguenza, la struttura assomiglierà a quella che viene utilizzata da un blog un po' più grande del nostro, ovvero [Fedora Magazine](https://fedoramagazine.org/), che è il blog ufficiale della community Fedora, anche se con un po' di variazioni per adattarla alla nostra community.
+La struttura assomiglierà a quella che viene utilizzata da un blog un po' più grande del nostro, ovvero [Fedora Magazine](https://fedoramagazine.org/), che è il blog ufficiale della community Fedora, anche se con un po' di variazioni per adattarla alla nostra community.
 
-Al fine di coordinare il tutto, sarà necessario avere degli editor che fanno in modo che l'afflusso di idee e di post funzioni correttamente. Inizialmente questo gruppo include gli organizzatori della community, ma il nostro obiettivo è includere in questo gruppo chiunque mostri un interesse e una propensione a contribuire attivamente alla community, e in particolare al blog.
+Al fine di coordinare il tutto, sarà necessario avere degli editor che fanno in modo che l'afflusso di idee e di post sia ordinato. Inizialmente questo gruppo include gli organizzatori della community, ma il nostro obiettivo è includere in questo gruppo chiunque mostri un interesse e una propensione a contribuire attivamente alla community, e in particolare al blog.
 
 Visto che ci sono due modi per contribuire, questa sezione è divisa a seconda del tipo di contributo.
 
 ## Richiesta post su un argomento
 
-Per richiedere un post su un argomento, basta [aprire una issue sulla pagina GitHub del blog](https://github.com/FlutterModena/blog/issues), descrivendo come si vuole (il template è un suggerimento) l'argomento e il post che si vorrebbe vedere sul sito.
+Per richiedere un post su un argomento, basta [aprire una issue sulla pagina GitHub del blog](https://github.com/FlutterModena/blog/issues), descrivendo (il template è un suggerimento) l'argomento e il post che si vorrebbe vedere sul sito.
 
 A questo punto, se l'idea è ritenuta interessante e coerente con i contenuti del blog, verrà spostata sulla [board del progetto GitHub del blog](https://github.com/orgs/FlutterModena/projects/1), che è il punto di arrivo per le idee e il punto di partenza per i post, come vedremo nella prossima sezione!
 
@@ -50,7 +50,7 @@ Una volta realizzato un post, questo verrà spostato nella fase "In revisione", 
 
 # Dettagli tecnici
 
-Il blog è realizzato con Hugo, che è un generatore di siti statici, il codice sulla base del quale è generato il sito è ospitato [in questa repository](https://github.com/FlutterModena/blog), ed è fatto (al netto della configurazione) di file Markdown nella cartella `content`, ognuno dei quali rappresenta una pagina del sito finale.
+Il blog è realizzato con Hugo, che è un generatore di siti statici. Il codice sulla base del quale è generato il sito è ospitato [in questa repository](https://github.com/FlutterModena/blog), ed è fatto (al netto della configurazione) di file Markdown nella cartella `content`, ognuno dei quali rappresenta una pagina del sito finale.
 
 ## Aggiungere un post al blog
 
