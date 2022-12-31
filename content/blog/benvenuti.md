@@ -4,7 +4,7 @@ title: "Benvenuti!"
 description: "Post che presenta e fornisce le prime indicazioni su come contribuire al blog."
 tags: ["community", "blog", "presentazione", "flutter modena"]
 date: 2022-12-31
-thumbnail: /fluttermodena.png
+thumbnail: /blogfirstpost.png
 ---
 
 Ecco qua il blog di Flutter Modena!

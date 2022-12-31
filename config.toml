@@ -14,7 +14,7 @@ DefaultContentLanguageInSubdir = false
       introTitle = "Benvenuti al Blog di Flutter Modena"
       introSubtitle = "Il blog gestito dalla community Flutter di Modena"
       introPhoto = "/fluttermodena.png"
-      logo = "/blist-logo.png"
+      logo = "/logo.png"
     [[languages.it.menu.main]]
         name = "Blog"
         url = "blog"
