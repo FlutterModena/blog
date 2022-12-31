@@ -22,13 +22,13 @@ Ognuno dei membri della community sarà, quindi, in grado di contribuire al blog
 
 # L'organizzazione
 
-Questo non è il blog personale di uno di noi, quindi è necessario che ci sia qualche forma di coordinazione tra i membri, e che ci sia qualche processo mediante il quale si assicura che i post che finiscono sul blog sono di qualità sufficiente che chiunque legga i post del blog possa fidarsi che i contenuti sono corretti e scritti abbastanza bene.
+Questo non è il blog personale di uno di noi, quindi è necessario che ci sia qualche forma di coordinazione tra i membri, e che ci sia qualche processo mediante il quale si assicura che i post che finiscono sul blog siano di qualità sufficiente che chiunque legga i post del blog possa fidarsi che i contenuti sono corretti e scritti abbastanza bene.
 
-Il proesso qui descritto è il primo che tenteremo di usare, poi valuteremo se renderlo più o meno formale in base ad eventuali difficoltà che incontreremo in futuro.
+Il processo qui descritto è il primo che tenteremo di usare, poi valuteremo se renderlo più o meno formale in base ad eventuali difficoltà che incontreremo in futuro.
 
-La struttura assomiglierà a quella che viene utilizzata da un blog un po' più grande del nostro, ovvero [Fedora Magazine](https://fedoramagazine.org/), che è il blog ufficiale della community Fedora, anche se con un po' di variazioni per adattarla alla nostra community.
+La struttura assomiglierà a quella che viene utilizzata da un blog un po' più grande del nostro, ovvero [Fedora Magazine](https://fedoramagazine.org/), che è il blog ufficiale della community Fedora e a cui ho contribuito qualche anno fa, anche se con un po' di variazioni per adattarla alla nostra community.
 
-Al fine di coordinare il tutto, sarà necessario avere degli editor che fanno in modo che l'afflusso di idee e di post sia ordinato. Inizialmente questo gruppo include gli organizzatori della community, ma il nostro obiettivo è includere in questo gruppo chiunque mostri un interesse e una propensione a contribuire attivamente alla community, e in particolare al blog.
+Al fine di coordinare il tutto, sarà necessario avere degli editor che fanno in modo che l'afflusso di idee e di post sia ordinato. Inizialmente, questo gruppo includerà gli organizzatori della community, ma il nostro obiettivo è includere in questo gruppo chiunque mostri un interesse e una propensione a contribuire attivamente alla community, e in particolare al blog.
 
 Visto che ci sono due modi per contribuire, questa sezione è divisa a seconda del tipo di contributo.
 
@@ -38,9 +38,13 @@ Per richiedere un post su un argomento, basta [aprire una issue sulla pagina Git
 
 A questo punto, se l'idea è ritenuta interessante e coerente con i contenuti del blog, verrà spostata sulla [board del progetto GitHub del blog](https://github.com/orgs/FlutterModena/projects/1), che è il punto di arrivo per le idee e il punto di partenza per i post, come vedremo nella prossima sezione!
 
+Se poi siete un po' indecisi, una discussione sul[la chat di gruppo su Telegram](https://t.me/fluttermodena) o un messaggio ad uno degli editor può essere sempre un modo più informale e "leggero" per avviare il processo.
+
 ## Realizzazione post per il blog
 
-Chiunque voglia scrivere un post per il blog, può iniziare guardando [la sezione contenente gli articoli da scrivere della board che ho appena menzionato](https://github.com/orgs/FlutterModena/projects/1), e chiedere di poter scrivere un post. Tranne che in casi eccezionali, questo non vuol dire prendersi un impegno particolare di scrivere il post con un certo livello di qualità o in un certo periodo di tempo, ma semplicemente esprimere l'intenzione di farlo e quindi poter "prenotare" un argomento.
+Il mio invito personale è quello di provare a scrivere un post per il blog se si ha un po' di voglia di farlo. Non bisogna essere super skillati né bravissimi a scrivere: io non sono mai stato nessuna delle due cose, ma questo non mi ha impedito di tentare anche imprese ben più sproporzionate di un post su blog, e non mi sembra così evidente che siano state un fallimento. In ogni caso, se volete, ad aiutarvi ci siamo noi!
+
+Chiunque voglia scrivere un post per il blog, può iniziare guardando [la sezione contenente gli articoli da scrivere della board che ho appena menzionato](https://github.com/orgs/FlutterModena/projects/1), e chiedere di poter scrivere un post. Tranne che in casi eccezionali, questo non vuol dire prendersi un impegno particolare di scrivere il post con un certo livello di qualità o in un certo periodo di tempo, ma semplicemente esprimere l'intenzione di scrivere un post su un certo argomento e quindi poter "prenotare" quell'argomento.
 
 Se dovessero esserci molte più persone che vogliono contribuire che idee di post e dovessero esserci molte idee occupate da molto tempo senza segni di progressi significativi, allora sembra abbastanza ovvio che si renderebbe necessario di liberare una di quelle idee o di sollecitare affinché l'idea diventi un post.
 
