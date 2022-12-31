@@ -91,9 +91,9 @@ Una volta effettuate le modifiche desiderate a quella copia (nel caso specifico 
 
 Tutto quello che interessa specificamente chi vuole contribuire al blog dal punto di vista dei contenuti è finito. Per quelli a cui invece interessano i dettagli di deployment (e che magari invece vogliono contribuire a quegli aspetti), ecco il modo in cui funziona la generazione e il deployment del blog.
 
-GitHub Actions si occupa di eseguire la build del blog, che viene realizzata in un branch a parte.
+Quando le modifiche effettuate sono ritenute pronte per la pubblicazione, quel branch viene pullato sul VPS su cui è ospitato il blog che, per la parte che riguarda il blog, è semplicemente un web server NGINX che serve file statici  in esecuzione su CentOS Stream 8. Il sito viene generato direttamente sul server.
 
-Quando le modifiche effettuate sono ritenute pronte per la pubblicazione, quel branch viene pullato sul VPS su cui è ospitato il blog che, per la parte che riguarda il blog, è semplicemente un web server NGINX che serve file statici  in esecuzione su CentOS Stream 8.
+Una possibile modifica sarebbe prevedere l'uso di GitHub Actions ed automatizzare il deployment, ma questo potrebbe rendere più facile pubblicare accidentalmente il blog in uno stato non pronto per la pubblicazione.
 
 # Conclusione
 
