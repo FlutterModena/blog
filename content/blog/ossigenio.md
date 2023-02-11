@@ -219,6 +219,17 @@ Entrambe le librerie supportano solo iOS e Android.
 Siccome abbiamo bisogno solamente della parte Low Energy del bluetooth, se potessimo tornare indietro avremmo scelto [quick_blue](https://pub.dev/packages/quick_blue), dato che supporta anche le piattaforme desktop.
 
 - Interagire al livello più basso del framework è complicato
-    - Se si vuole avere un widget davvero particolare, è possibile che nessun pacchetto in
-    [pub.dev](https://pub.dev)
-     soddisfi i propri bisogni (per fortuna a noi non è capitato). In questo caso, bisogna costruire il proprio widget manualmente con le API Canvas, il che vuol dire disegnare linee e forme in maniera "grezza". La curva di apprendimento di questa funzionalità è più complicata.
+- Se si vuole avere un widget davvero particolare, è possibile che nessun pacchetto in
+[pub.dev](https://pub.dev)
+    soddisfi i propri bisogni (per fortuna a noi non è capitato). In questo caso, bisogna costruire il proprio widget manualmente con le API Canvas, il che vuol dire disegnare linee e forme in maniera "grezza". La curva di apprendimento di questa funzionalità è più complicata.
+
+
+
+<em>Nota di "redazione": Questo è il primo degli articoli pubblicati da membri del nostro meetup.
+
+In questo caso Davide, dopo aver presentato il suo progetto durante il nostro incontro di Febbraio, ha anche contribuito questo articolo per il nostro blog, così da poter condividere la sua esperienza con quelli che non c'erano quel giorno.
+
+Se non sei ancora parte di Flutter Modena, [entra nel nostro gruppo Telegram](https://t.me/fluttermodena) e [iscriviti su Meetup](https://www.meetup.com/flutter-modena/) per sapere dei prossimi eventi.
+
+Se invece sei dei nostri, sei invitato a raccontarci la tua esperienza con un articolo e/o con una presentazione durante uno dei nostri eventi!
+</em>
