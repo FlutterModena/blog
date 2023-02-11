@@ -88,15 +88,15 @@ DefaultContentLanguageInSubdir = false
 #  [[params.homepage.social.icons]]
 #    website = "twitter"
 #    url = "https://twitter.com/"
-#  [[params.homepage.social.icons]]
-#    website = "linkedin"
-#    url = "https://linkedin.com/in/"
+  [[params.homepage.social.icons]]
+    website = "linkedin"
+    url = "https://www.linkedin.com/company/flutter-modena/"
   [[params.homepage.social.icons]]
     website = "telegram"
     url = "https://t.me/fluttermodena"
   [[params.homepage.social.icons]]
     website = "github"
-    url = "https://github.com/"
+    url = "https://github.com/FlutterModena"
 
 
 [[menu.main]]
