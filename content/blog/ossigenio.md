@@ -31,7 +31,9 @@ Abbiamo quindi bisogno di una applicazione che ci gestisca:
 - BLE
 - HTTP (API REST)
 - GPS
-- UI che mostri tutto (slider, mappa, icone...) ... il tutto in maniera **cross platform**.
+- UI che mostri tutto (slider, mappa, icone...)
+
+... il tutto in maniera **cross platform**.
 
 ## Perché usare Flutter
 
