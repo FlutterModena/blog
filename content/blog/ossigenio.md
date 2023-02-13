@@ -3,7 +3,7 @@ author: "Davide Palma"
 title: "Ossigenio"
 description: "Davide ci parla della sua esperienza di uso di Flutter con BLE."
 tags: ["bluetooth", "ble", "iot", "esperienze"]
-date: 2023-02-11
+date: 2023-02-13
 thumbnail: https://user-images.githubusercontent.com/7345120/214380344-852bb52a-08c6-4c13-a99f-b96ed6800c03.png
 latitude: 40.90025460
 longitude: 14.27727490
@@ -231,5 +231,5 @@ In questo caso Davide, dopo aver presentato il suo progetto durante il nostro in
 
 Se non sei ancora parte di Flutter Modena, [entra nel nostro gruppo Telegram](https://t.me/fluttermodena) e [iscriviti su Meetup](https://www.meetup.com/flutter-modena/) per sapere dei prossimi eventi.
 
-Se invece sei dei nostri, sei invitato a raccontarci la tua esperienza con un articolo e/o con una presentazione durante uno dei nostri eventi!
+Se invece sei dei nostri, e vuoi raccontarci la tua esperienza con un articolo e/o con una presentazione durante uno dei nostri eventi, contatta uno di noi organizzatori e parliamone!
 </em>
