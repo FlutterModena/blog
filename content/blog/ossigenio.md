@@ -5,9 +5,6 @@ description: "Davide ci parla della sua esperienza di uso di Flutter con BLE."
 tags: ["bluetooth", "ble", "iot", "esperienze"]
 date: 2023-02-13
 thumbnail: https://user-images.githubusercontent.com/7345120/214380344-852bb52a-08c6-4c13-a99f-b96ed6800c03.png
-latitude: 40.90025460
-longitude: 14.27727490
-altitude: 0.0000
 ---
 
 [Ossigenio](https://ossigenio.it/)

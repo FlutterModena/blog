@@ -5,9 +5,6 @@ description: "La prima applicazione italiana di monitoraggio della campagna vacc
 tags: ["vaccini", "app", "esperienze"]
 date: 2023-05-02
 thumbnail: https://www.auroradigital.it/wp-content/uploads/2022/10/111628344-687f3500-87f0-11eb-9c74-88e804c07da9-1024x513.png
-latitude: 40.90025460
-longitude: 14.27727490
-altitude: 0.0000
 ---
 
 In piena pandemia, Marzo 2021, si è voluto dare un servizio totalmente gratuito e senza scopo di lucro. 🦠\
