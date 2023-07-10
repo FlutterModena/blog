@@ -4,7 +4,7 @@ title: "Flutter CI con le GitHub Actions"
 description: "Dario ci mostra come creare workflow di test per app Flutter con GitHub Actions."
 tags: ["github", "test", "ci/cd", "tutorial"]
 date: 2023-07-10
-thumbnail: /ghactions.png
+thumbnail: /actions.png
 ---
 
 La Continuous Integration (**CI**) è una pratica essenziale nello sviluppo software moderno, che consente di automatizzare il processo di integrazione del codice e di eseguire test automatici per garantire la stabilità del progetto. 
